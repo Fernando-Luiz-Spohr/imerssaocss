@@ -15,7 +15,12 @@ body{
     text-decoration: underline;
   }
   .menu{
-    background: white;
+    background: orange;
+    border:1px solid teal;
+    margin:-9px;
+    padding:0px;
+    width:100vw;
+    height:6.5vh;
   }
   .menu ul{
     display:flex;
