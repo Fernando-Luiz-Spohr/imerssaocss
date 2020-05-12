@@ -1,0 +1,30 @@
+/* Aula inicial :D */
+body{
+    background-image: url("https://acegif.com/wp-content/uploads/tea.gif");
+    background-size: auto 50vh;
+    font-family: monospace;
+    height: 100vh;
+  }
+  
+  a {
+    color:teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu{
+    background: white;
+  }
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  .site-title, .site-subtitle{
+    text-align:center;
+    color: ;
+  }
